@@ -1,3 +1,4 @@
+// eg query : http://localhost:8080/getData?from=1759276800&till=1766054889000&filterOut=value, name&subtopic=motor/rpm
 package main
 
 import (
